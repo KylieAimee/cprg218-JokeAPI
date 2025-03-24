@@ -10,7 +10,7 @@ body{
     color: rgb(138, 56, 83);
 }
 
-#joke{
+#NewJoke{
     background-color: aliceblue;
     padding: 2rem;
     border-radius: 1rem;
@@ -22,5 +22,9 @@ button{
     border-radius: 1rem;
     border: 3px solid pink;
     color: rgb(138, 56, 83);
+}
+
+button:hover {
+    background-color: pink;
 }
 
